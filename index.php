@@ -1,5 +1,13 @@
+<!DOCTYPE html>
 <html>
 <header>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>Tienda en línea · Inicio</title>
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
@@ -13,7 +21,7 @@
 </header>
 
 <body>
-    <div class="content">
+    <div class="container-fluid">
         <div class="row border-bottom p-2 pe-5">
             <div class="col-6">
 
@@ -60,7 +68,8 @@
 
         <div class="row p-5">
             <div class="col-3 text-center align-content-middle my-auto">
-                <img src="images/logos/logo.png" width="200" height="80" alt="" class="align-middle rounded" style="background-color:rgba(90,90,90,0.3)">
+                <!-- <img src="images/logos/logo2.png" width="270" height="120" alt="" class="align-middle rounded" style="background-color:rgba(90,90,90,0.3)"> -->
+                <img src="images/logos/logo2.png" width="270" height="120" alt="" class="align-middle rounded" >
             </div>
             <div class="col-9 align-content-middle my-auto">
                 <ul class="nav justify-content-end align-middle pe-5 align-middle">
@@ -94,7 +103,7 @@
  
 
     </div>
-    <div class="container-fluid w-100" style="margin:0;padding:0;">
+    <div class="container-marketing w-100">
         
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
@@ -125,7 +134,7 @@
             </div>
     </div>
     <div class="container-fluid">
-        <div class="row p-5">
+        <div class="row p-5 g-0">
             <div class="col-8">
                 <p style=" font-family: 'Montserrat', sans-serif;
                 font-size:32px;">¿Qué estás buscando?</p>
@@ -144,7 +153,7 @@
             <div class="col-4">
             <p class="text-center" style=" font-family: 'Montserrat', sans-serif;
                 font-size:32px;">Lo más buscado</p>
-                <div class="ms-5 p-5">
+                <div class="ms-5 p-0">
                     <p><i class="bi bi-plus-circle-fill me-3" style="color:#781005;"></i> Licitaciones</p>
                     <p><i class="bi bi-plus-circle-fill me-3" style="color:#781005;"></i> Trámites y servicios</p>
                     <p><i class="bi bi-plus-circle-fill me-3" style="color:#781005;"></i> Pago referendo</p>
@@ -193,7 +202,79 @@
     <div class="container-fluid">
     <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;
                 font-size:32px;">Seguridad</p>
+                <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
+                    <div class="card">
+                        <img src="images/img06.png" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <!-- <div class="card-body">
+                        <h5 class="card-title">Gobernador David Monreal nombra a parte de su Gabinete</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div> -->
+                    </div>
+                    <div class="card">
+                    <img src="images/img07.png" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <!-- <div class="card-body">
+                        <h5 class="card-title">En Guadalupe de Trujillo, David Monreal inicia la transformación de las carreteras en Zacatecas</h5>
+                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div> -->
+                    </div>
+                    <div class="card">
+                    <img src="images/img08.png" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <!-- <div class="card-body">
+                        <h5 class="card-title">Inicia Gobernador David Monreal rescate del campo; anuncia reactivación de Tianguis Ganaderos</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div> -->
+                    </div>
+                </div>
     </div>
+
+    <div class="container-marketing">
+        <img src="images/conectate-01.png" alt="" style="width: 100%">
+
+    </div> 
+
+    <div class="container-marketing">
+        <div class="row g-0">
+            <div class="col-6">
+                <img src="images/cuadro_01.jpg" class="w-100" alt="">
+            </div>
+            <div class="col-6">
+            <img src="images/cuadro_02.png" class="w-100" alt="">
+            </div>
+            <!-- <div class="col-6">
+            <img src="images/cuadro_03.png" class="w-100" alt=""> 
+            </div>
+            <div class="col-6">
+            <img src="images/cuadro_04.png" class="w-100" alt="">
+            </div> -->
+        </div>
+        
+
+    </div>
+    <div class="container-marketing">
+        <div class="row g-0">
+            <!-- <div class="col-6">
+                <img src="images/cuadro_01.jpg" class="w-100" alt="">
+            </div>
+            <div class="col-6">
+            <img src="images/cuadro_02.png" class="w-100" alt="">
+            </div> -->
+            <div class="col-6">
+            <img src="images/cuadro_03.png" class="w-100" alt=""> 
+            </div>
+            <div class="col-6">
+            <img src="images/cuadro_04.png" class="w-100" alt="">
+            </div>
+        </div>
+        
+
+    </div>
+
 </body>
 
+<?php
+include('footer.php');
+?>
 </html>
