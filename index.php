@@ -142,9 +142,9 @@
 </p>
             </div>
             <div class="col-4">
-            <p style=" font-family: 'Montserrat', sans-serif;
+            <p class="text-center" style=" font-family: 'Montserrat', sans-serif;
                 font-size:32px;">Lo más buscado</p>
-                <div class="p-5">
+                <div class="ms-5 p-5">
                     <p><i class="bi bi-plus-circle-fill me-3" style="color:#781005;"></i> Licitaciones</p>
                     <p><i class="bi bi-plus-circle-fill me-3" style="color:#781005;"></i> Trámites y servicios</p>
                     <p><i class="bi bi-plus-circle-fill me-3" style="color:#781005;"></i> Pago referendo</p>
