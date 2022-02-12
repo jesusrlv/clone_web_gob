@@ -22,11 +22,11 @@
 
 <body>
     <div class="container-fluid">
-        <div class="row border-bottom p-2 pe-5">
+        <div class="row border-bottom p-1">
             <div class="col-6">
 
             </div>
-            <div class="col-6 text-end" style="color:#9ea0a4;">
+            <div class="col-6 text-end pe-5" style="color:#9ea0a4;">
                 <i class="bi bi-facebook me-3"></i>
                 <i class="bi bi-twitter me-3"></i>
                 <i class="bi bi-youtube me-3"></i>
