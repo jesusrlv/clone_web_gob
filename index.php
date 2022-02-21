@@ -7,6 +7,7 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
     <title>INJUVENTUD · Inicio</title>
+    <link rel="icon" type="image/png" href="images/logos/ico.ico" sizes="22x21">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -69,7 +70,7 @@
         <div class="row p-5">
             <div class="col-3 text-center align-content-middle my-auto">
                 <!-- <img src="images/logos/logo2.png" width="270" height="120" alt="" class="align-middle rounded" style="background-color:rgba(90,90,90,0.3)"> -->
-                <img src="images/logos/logo2.png" width="270" height="120" alt="" class="align-middle rounded" >
+                <img src="images/logos/logo_veda_02.png" width="270" height="100" alt="" class="align-middle rounded" >
             </div>
             <div class="col-9 align-content-middle my-auto">
                 <ul class="nav justify-content-end align-middle pe-5 align-middle">
