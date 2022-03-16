@@ -77,14 +77,14 @@
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#">Inicio</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="#">Gobierno</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Programas</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Servicios</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Conoce Zacatecas</a>
+                        <a class="nav-link" href="rendicion_cuentas/rendicion_cuentas_css.html">Rendición de cuentas</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Transparencia</a>
