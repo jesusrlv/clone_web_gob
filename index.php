@@ -429,3 +429,5 @@ $("a[href^='#']").click(function(e) {
           margin-bottom: 5px;
       }
       </style>
+
+https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-or-right-aligned-items
