@@ -7,7 +7,7 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
     <title>INJUVENTUD · Inicio</title>
-    <link rel="icon" type="image/png" href="images/logos/ico.ico" sizes="22x21">
+    <link rel="icon" type="image/png" href="assets/brand/img/logo_injuventud_0.ico" sizes="22x21">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -25,101 +25,39 @@
 </header>
 
 <head>
-<nav class="navscroll navbar navbar-expand-md navbar-dark fixed-top">
-    <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="#">Left</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Codeply</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-            </li>
-        </ul>
-    </div>
-    <div class="mx-auto order-0">
-        <a class="navbar-brand mx-auto" href="#">Navbar 2</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </div>
-    <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
-        <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="#">Right</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-            </li>
-        </ul>
-    </div>
-</nav>
-
-
-    <!-- <nav class="navscroll navbar navbar-expand-md fixed-top mx-auto pt-5">
-      <div class="container-fluid mx-auto">
-        <a class="navbar-brand mb-3 w-25 text-end" href="#"><img src="images/logos/logo_veda_02.png" width="170" height="63" alt="" class="align-middle rounded" ></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="line"></span> 
-          <span class="line"></span> 
-          <span class="line" style="margin-bottom: 0;"></span>
-        </button>
-        <div class="collapse navbar-collapse p-2" id="navbarCollapse">
-         
-          <ul class="navbar-nav w-75 mb-2 mb-md-0 ml-auto">
-            <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Inicio</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#one">Programas</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="rendicion_cuentas/rendicion_cuentas_css.html">Rendición de cuentas</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Transparencia</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Sala de prensa</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#"><i class="bi bi-question-circle-fill"></i></a>
-            </li>
-          </ul>
-            
-        </div>
+<!-- nav -->
+<nav class="navscroll navbar navbar-expand-lg navbar-light  fixed-top">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="assets/brand/img/logo_injuventud_02.png" width="" alt="" class="align-middle rounded" style="width:12rem"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav mx-auto">
+        <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+        <a class="nav-link" href="#one">Programas</a>
+        <a class="nav-link" href="#two">Sala de prensa</a>
+        <a class="nav-link" target="_blank" href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html">Rendición de cuentas</a>
+        <a class="nav-link" href="#two">Transparencia</a>
+        <a class="nav-link" href="#"><i class="bi bi-facebook me-3"></i></a>
+        <a class="nav-link" href="#"><i class="bi bi-twitter me-3"></i></a>
+        <a class="nav-link" href="#"><i class="bi bi-youtube me-3"></i></a>
+        <a class="nav-link" href="#"><i class="bi bi-instagram me-3"></i></a>
+        <a class="nav-link" href="#"><i class="bi bi-envelope me-3"></i></a>
+        
       </div>
-    </nav> -->
+    </div>
+  </div>
+</nav>
+<!-- nav -->
+
+
+
  
 </head>
 
-<body>
+<body class="mt-3">
     <div class="container-fluid">
-        <div class="row border-bottom p-1">
-            <div class="col-6">
-
-            </div>
-            <div class="col-6 text-end pe-5" style="color:#9ea0a4;">
-                <i class="bi bi-facebook me-3"></i>
-                <i class="bi bi-twitter me-3"></i>
-                <i class="bi bi-youtube me-3"></i>
-                <i class="bi bi-instagram me-3"></i>
-                <i class="bi bi-envelope me-3"></i>
-            </div>
-            <!-- <nav class="navbar navbar-light bg-light">
-                <div class="container-fluid">
-                    <a class="navbar-brand" href="#">Navbar</a>
-                </div>
-            </nav> -->
-        </div>
 
         <style>
             body{
@@ -152,28 +90,6 @@
                 <!-- <img src="images/logos/logo2.png" width="270" height="120" alt="" class="align-middle rounded" style="background-color:rgba(90,90,90,0.3)"> -->
                 <!-- <img src="images/logos/logo_veda_02.png" width="270" height="100" alt="" class="align-middle rounded" > -->
             </div>
-            <!-- <div class="col-9 align-content-middle my-auto">
-                <ul class="nav justify-content-end align-middle pe-5 align-middle">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Inicio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#one">Programas</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="rendicion_cuentas/rendicion_cuentas_css.html">Rendición de cuentas</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Transparencia</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Sala de prensa</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="bi bi-question-circle-fill"></i></a>
-                    </li>
-                </ul>
-            </div> -->
 
         </div>
 
@@ -245,7 +161,43 @@
     <div id="one"></div>
     <div class="container-fluid bg-light">
             <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;
-                font-size:32px;">Últimas noticias</p>
+                font-size:32px;">Programas INJUVENTUD</p>
+                <!-- card group -->
+                <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
+                    <div class="card">
+                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <div class="card-body">
+                        <h5 class="card-title">Programa #1</h5>
+                        <p class="card-text">Programa del Instituto de la Juventud.</p>
+                        <p class="card-text"><small class="text-muted">Visitar</small></p>
+                        <p class="card-text"><small class="text-muted"><button type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill"></i></button></small></p>
+                        </div>
+                    </div>
+                    <div class="card">
+                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <div class="card-body">
+                        <h5 class="card-title">Programa #2</h5>
+                        <p class="card-text">Programa del Instituto de la Juventud.</p>
+                        <p class="card-text"><small class="text-muted">Visitar</small></p>
+                        <p class="card-text"><small class="text-muted"><button type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill"></i></button></small></p>
+                        </div>
+                    </div>
+                    <div class="card">
+                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <div class="card-body">
+                        <h5 class="card-title">Programa #3</h5>
+                        <p class="card-text">Programa del Instituto de la Juventud.</p>
+                        <p class="card-text"><small class="text-muted">Visitar</small></p>
+                        <p class="card-text"><small class="text-muted"><button type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill"></i></button></small></p>
+                        </div>
+                    </div>
+                </div>
+
+    </div>
+    <div id="two"></div>
+    <div class="container-fluid bg-light">
+            <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;
+                font-size:32px;">Noticias INJUVENTUD</p>
                 <!-- card group -->
                 <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
                     <div class="card">
@@ -276,41 +228,79 @@
 
     </div>
     
+    <div id="three"></div>
     <div class="container-fluid">
     <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;
-                font-size:32px;">Seguridad</p>
+                font-size:32px;">INJUVENTUD</p>
                 <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
+                    
+                    <a href="comite_etica/">
                     <div class="card">
-                        <img src="images/img06.png" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <img src="assets/brand/img/logo_etica.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
                         <h5 class="card-title">Gobernador David Monreal nombra a parte de su Gabinete</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div> -->
                     </div>
+                    </a>
+                    <a href="oic">
                     <div class="card">
-                    <img src="images/img07.png" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="assets/brand/img/logo_oic.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
                         <h5 class="card-title">En Guadalupe de Trujillo, David Monreal inicia la transformación de las carreteras en Zacatecas</h5>
                         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div> -->
                     </div>
+                    </a>
+                    <a href="proveedores/">
                     <div class="card">
-                    <img src="images/img08.png" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="assets/brand/img/logo_proveedores.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
                         <h5 class="card-title">Inicia Gobernador David Monreal rescate del campo; anuncia reactivación de Tianguis Ganaderos</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div> -->
                     </div>
+                    </a>
+                    <a href="rendicion_cuentas/rendicion_cuentas_css.html">
+                    <div class="card">
+                    <img src="assets/brand/img/logo_rendicion_cuentas.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <!-- <div class="card-body">
+                        <h5 class="card-title">Inicia Gobernador David Monreal rescate del campo; anuncia reactivación de Tianguis Ganaderos</h5>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div> -->
+                    </div>
+                    </a>
+                   
                 </div>
     </div>
 
     <div class="container-marketing">
-        <img src="images/conectate-01.png" alt="" style="width: 100%">
-
+        <a href="#" data-bs-toggle="modal" data-bs-target="#modalRedes">
+            <img src="images/conectate-01.png" alt="" style="width: 100%">
+        </a>
     </div> 
+    <!-- Modal -->
+    <div class="modal fade" id="modalRedes" tabindex="-1" aria-labelledby="modalRedesLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Redes sociales</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+            </div>
+        </div>
+    </div>
 
     <div class="container-marketing">
         <div class="row g-0">
