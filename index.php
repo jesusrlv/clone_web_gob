@@ -233,7 +233,9 @@
             <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;font-size:32px;">INJUVENTUD</p>
                 <!-- card group -->
                 <div class="card-group p-5" style="font-family: 'Montserrat', sans-serif;">
-                    <div class="card">
+                
+                <a href="comite_etica/">    
+                <div class="card">
                     <img src="assets/brand/img/logo_etica.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
                         <h5 class="card-title">Realiza Gobierno de Zacatecas Encuentro con Instancias Municipales de la Juventud</h5>
@@ -241,6 +243,8 @@
                         <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
                     </div>
+                    </a>
+                    <a href="oic/">
                     <div class="card">
                     <img src="assets/brand/img/logo_oic.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
@@ -249,6 +253,8 @@
                         <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
                     </div>
+                    </a>
+                    <a href="proveedores/">
                     <div class="card">
                     <img src="assets/brand/img/logo_proveedores.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
@@ -257,6 +263,8 @@
                         <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
                     </div>
+                    </a>
+                    <a href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html">
                     <div class="card">
                     <img src="assets/brand/img/logo_rendicion_cuentas.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
@@ -265,6 +273,37 @@
                         <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
                     </div>
+                    </a>
+                    <a data-bs-toggle="modal" data-bs-target="#organigrama">
+                    <div class="card">
+                    <img src="assets/brand/img/organigrama_injuvemntud.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <!-- <div class="card-body">
+                        <h5 class="card-title">Lleva Gobierno de Zacatecas Caravana de la Prevención a Cañitas de Felipe Pescador </h5>
+                        <p class="card-text">A través del Instituto de la Juventud, se impulsan políticas públicas que fortalezcan el tejido social y el desarrollo integral de las y los jóvenes.</p>
+                        <p class="card-text"><small class="text-muted">Actualizado</small></p>
+                        </div> -->
+                    </div>
+                    </a>                    
+
+                   <!-- Modal -->
+                    <div class="modal fade" id="organigrama" tabindex="-1" aria-labelledby="organigrama" aria-hidden="true">
+                        <!-- <div class="modal-dialog modal-dialog-centered modal-lg"> -->
+                        <div class="modal-dialog modal-fullscreen">
+                            <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Organigrama INJUVENTUD</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body text-center">
+                                <img src="assets/brand/img/organigrama_Injuventud_7_sin_nombres.jpg" class="w-75" alt="">
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Modal -->
                 </div>
 
     </div>
