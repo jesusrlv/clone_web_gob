@@ -277,11 +277,12 @@
                     <a data-bs-toggle="modal" data-bs-target="#organigrama">
                     <div class="card">
                     <img src="assets/brand/img/organigrama_injuvemntud.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
-                        <!-- <div class="card-body">
-                        <h5 class="card-title">Lleva Gobierno de Zacatecas Caravana de la Prevención a Cañitas de Felipe Pescador </h5>
+                        <div class="card-body">
+                        <!-- <h5 class="card-title">Lleva Gobierno de Zacatecas Caravana de la Prevención a Cañitas de Felipe Pescador </h5>
                         <p class="card-text">A través del Instituto de la Juventud, se impulsan políticas públicas que fortalezcan el tejido social y el desarrollo integral de las y los jóvenes.</p>
-                        <p class="card-text"><small class="text-muted">Actualizado</small></p>
-                        </div> -->
+                         <p class="card-text"><small class="text-muted">Actualizado</small></p>-->
+                         <button type="button" class="btn btn-primary btn-sm">Small button</button>
+                        </div>
                     </div>
                     </a>                    
 
