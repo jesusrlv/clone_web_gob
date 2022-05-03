@@ -37,6 +37,7 @@
         <a class="nav-link active" aria-current="page" href="#">Inicio</a>
         <a class="nav-link" href="#one">Programas</a>
         <a class="nav-link" href="#two">Sala de prensa</a>
+        <a class="nav-link" href="#three">Injuventud</a>
         <a class="nav-link" target="_blank" href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html">Rendición de cuentas</a>
         <a class="nav-link" href="#two">Transparencia</a>
         <a class="nav-link h5 text-primary" href="https://www.facebook.com/injuventud.zac"><i class="bi bi-facebook me-1"></i></a>
@@ -99,19 +100,19 @@
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img src="images/img01.png" class="d-block w-100" alt="..." style="width:100%; max-height:500px; object-fit: cover; object-position:center; background-repeat: no-repeat;">
+                    <img src="images/img01.png" class="d-block w-100" alt="..." style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;">
                     </div>
                     <div class="carousel-item">
-                    <img src="images/img02.png" class="d-block w-100" alt="..." style="width:100%; max-height:500px; object-fit: cover; object-position:center; background-repeat: no-repeat;">
+                    <img src="images/img02.png" class="d-block w-100" alt="..." style="width:100%;  height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;">
                     </div>
                     <div class="carousel-item">
-                    <img src="images/img03.png" class="d-block w-100" alt="..." style="width:100%; max-height:500px; object-fit: cover; object-position:center; background-repeat: no-repeat;">
+                    <img src="images/img03.png" class="d-block w-100" alt="..." style="width:100%;  height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;">
                     </div>
                     <div class="carousel-item">
-                    <img src="images/img04.png" class="d-block w-100" alt="..." style="width:100%; max-height:500px; object-fit: cover; object-position:center; background-repeat: no-repeat;">
+                    <img src="images/img04.png" class="d-block w-100" alt="..." style="width:100%;  height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;">
                     </div>
                     <div class="carousel-item">
-                    <img src="images/img05.png" class="d-block w-100" alt="..." style="width:100%; max-height:500px; object-fit: cover; object-position:center; background-repeat: no-repeat;">
+                    <img src="images/img05.png" class="d-block w-100" alt="..." style="width:100%;  height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -193,12 +194,12 @@
                 </div>
 
     </div>
+    
     <div id="two"></div>
     <div class="container-fluid">
-            <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;
-                font-size:32px;">Noticias INJUVENTUD</p>
+            <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;font-size:32px;">Noticias INJUVENTUD</p>
                 <!-- card group -->
-                <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
+                <div class="card-group p-5" style="font-family: 'Montserrat', sans-serif;">
                     <div class="card">
                         <img src="images/noticias/injuventud_02042022.jpg" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
@@ -226,56 +227,49 @@
                 </div>
 
     </div>
-    
+
     <div id="three"></div>
-    <div class="container-fluid bg-light">
-    <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;
-                font-size:32px;">INJUVENTUD</p>
-                <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
-                    
-                    <a href="comite_etica/">
+    <div class="container-fluid">
+            <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;font-size:32px;">INJUVENTUD</p>
+                <!-- card group -->
+                <div class="card-group p-5" style="font-family: 'Montserrat', sans-serif;">
                     <div class="card">
-                        <img src="assets/brand/img/logo_etica.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="assets/brand/img/logo_etica.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
-                        <h5 class="card-title">Gobernador David Monreal nombra a parte de su Gabinete</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Realiza Gobierno de Zacatecas Encuentro con Instancias Municipales de la Juventud</h5>
+                        <p class="card-text">Favorecen el trabajo coordinado entre el Injuventud y los ayuntamientos.</p>
+                        <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
                     </div>
-                    </a>
-                    <a href="oic/">
                     <div class="card">
                     <img src="assets/brand/img/logo_oic.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
-                        <h5 class="card-title">En Guadalupe de Trujillo, David Monreal inicia la transformación de las carreteras en Zacatecas</h5>
-                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Informan a estudiantes zacatecanos sobre pubertad y preadolescencia</h5>
+                        <p class="card-text">El Instituto de la Juventud del Estado de Zacatecas (Injuventud) impartió la conferencia denominada “Pubertad y preadolescencia” para dar a conocer a estudiantes de sexto de primaria.</p>
+                        <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
                     </div>
-                    </a>
-                    <a href="proveedores/">
                     <div class="card">
                     <img src="assets/brand/img/logo_proveedores.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
-                        <h5 class="card-title">Inicia Gobernador David Monreal rescate del campo; anuncia reactivación de Tianguis Ganaderos</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Lleva Gobierno de Zacatecas Caravana de la Prevención a Cañitas de Felipe Pescador </h5>
+                        <p class="card-text">A través del Instituto de la Juventud, se impulsan políticas públicas que fortalezcan el tejido social y el desarrollo integral de las y los jóvenes.</p>
+                        <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
                     </div>
-                    </a>
-                    <a href="rendicion_cuentas/rendicion_cuentas_css.html">
                     <div class="card">
                     <img src="assets/brand/img/logo_rendicion_cuentas.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
-                        <h5 class="card-title">Inicia Gobernador David Monreal rescate del campo; anuncia reactivación de Tianguis Ganaderos</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Lleva Gobierno de Zacatecas Caravana de la Prevención a Cañitas de Felipe Pescador </h5>
+                        <p class="card-text">A través del Instituto de la Juventud, se impulsan políticas públicas que fortalezcan el tejido social y el desarrollo integral de las y los jóvenes.</p>
+                        <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
                     </div>
-                    </a>
-                   
                 </div>
+
     </div>
+    
+    
 
     <div class="container-marketing">
         <a href="#" data-bs-toggle="modal" data-bs-target="#modalRedes">
