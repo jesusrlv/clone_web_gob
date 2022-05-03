@@ -39,19 +39,17 @@
         <a class="nav-link" href="#two">Sala de prensa</a>
         <a class="nav-link" target="_blank" href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html">Rendición de cuentas</a>
         <a class="nav-link" href="#two">Transparencia</a>
-        <a class="nav-link" href="#"><i class="bi bi-facebook me-3"></i></a>
-        <a class="nav-link" href="#"><i class="bi bi-twitter me-3"></i></a>
-        <a class="nav-link" href="#"><i class="bi bi-youtube me-3"></i></a>
-        <a class="nav-link" href="#"><i class="bi bi-instagram me-3"></i></a>
-        <a class="nav-link" href="#"><i class="bi bi-envelope me-3"></i></a>
+        <a class="nav-link h5 text-primary" href="https://www.facebook.com/injuventud.zac"><i class="bi bi-facebook me-1"></i></a>
+        <a class="nav-link h5 text-info" href="https://twitter.com/INJUVENTUD_zac"><i class="bi bi-twitter me-1"></i></a>
+        <!-- <a class="nav-link" href="#"><i class="bi bi-youtube me-3"></i></a> -->
+        <a class="nav-link h5 text-danger" href="https://www.instagram.com/injuventud.zac/"><i class="bi bi-instagram me-3"></i></a>
+        <a class="nav-link h5" href="#"><i class="bi bi-envelope me-1"></i></a>
         
       </div>
     </div>
   </div>
 </nav>
 <!-- nav -->
-
-
 
  
 </head>
@@ -126,9 +124,10 @@
                 </button>
             </div>
     </div>
-    <div class="container-fluid">
-        <div class="row p-5 g-0">
-            <div class="col-8">
+    
+    <div class="container marketing">
+        <div class="row p-3 g-0">
+            <div class="col-sm-8">
                 <p style=" font-family: 'Montserrat', sans-serif;
                 font-size:32px;">¿Qué estás buscando?</p>
                 <!-- <p class="p-3 rounded" style="background-color:#781005;"> -->
@@ -141,9 +140,9 @@
                 <!-- </p> -->
                 <p class="mt-5" style=" font-family: 'Montserrat', sans-serif;
                 font-size:15px;">Encuentra de manera rápida y sencilla la información que el Gobierno del Estado de Zacatecas tiene disponible en Internet.
-</p>
+                </p>
             </div>
-            <div class="col-4">
+            <div class="col-sm-4">
             <p class="text-center" style=" font-family: 'Montserrat', sans-serif;
                 font-size:32px;">Lo más buscado</p>
                 <div class="ms-5 p-0">
@@ -156,8 +155,8 @@
             </div>
 
         </div>
-
     </div>
+
     <div id="one"></div>
     <div class="container-fluid bg-light">
             <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;
@@ -165,7 +164,7 @@
                 <!-- card group -->
                 <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
                     <div class="card">
-                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
                         <h5 class="card-title">Programa #1</h5>
                         <p class="card-text">Programa del Instituto de la Juventud.</p>
@@ -174,7 +173,7 @@
                         </div>
                     </div>
                     <div class="card">
-                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
                         <h5 class="card-title">Programa #2</h5>
                         <p class="card-text">Programa del Instituto de la Juventud.</p>
@@ -183,7 +182,7 @@
                         </div>
                     </div>
                     <div class="card">
-                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
                         <h5 class="card-title">Programa #3</h5>
                         <p class="card-text">Programa del Instituto de la Juventud.</p>
@@ -195,33 +194,33 @@
 
     </div>
     <div id="two"></div>
-    <div class="container-fluid bg-light">
+    <div class="container-fluid">
             <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;
                 font-size:32px;">Noticias INJUVENTUD</p>
                 <!-- card group -->
                 <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
                     <div class="card">
-                        <img src="images/portadas/dma_01.jpg" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                        <img src="images/noticias/injuventud_02042022.jpg" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
-                        <h5 class="card-title">Gobernador David Monreal nombra a parte de su Gabinete</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Realiza Gobierno de Zacatecas Encuentro con Instancias Municipales de la Juventud</h5>
+                        <p class="card-text">Favorecen el trabajo coordinado entre el Injuventud y los ayuntamientos.</p>
+                        <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div>
                     </div>
                     <div class="card">
-                    <img src="images/portadas/dma_02.jpg" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="images/noticias/injuventud_02052022_01.jpg" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
-                        <h5 class="card-title">En Guadalupe de Trujillo, David Monreal inicia la transformación de las carreteras en Zacatecas</h5>
-                        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Informan a estudiantes zacatecanos sobre pubertad y preadolescencia</h5>
+                        <p class="card-text">El Instituto de la Juventud del Estado de Zacatecas (Injuventud) impartió la conferencia denominada “Pubertad y preadolescencia” para dar a conocer a estudiantes de sexto de primaria.</p>
+                        <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div>
                     </div>
                     <div class="card">
-                    <img src="images/portadas/dma_03.jpg" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="images/noticias/injuventud_02052022_02.jpg" class="card-img-top" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
-                        <h5 class="card-title">Inicia Gobernador David Monreal rescate del campo; anuncia reactivación de Tianguis Ganaderos</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        <h5 class="card-title">Lleva Gobierno de Zacatecas Caravana de la Prevención a Cañitas de Felipe Pescador </h5>
+                        <p class="card-text">A través del Instituto de la Juventud, se impulsan políticas públicas que fortalezcan el tejido social y el desarrollo integral de las y los jóvenes.</p>
+                        <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div>
                     </div>
                 </div>
@@ -229,7 +228,7 @@
     </div>
     
     <div id="three"></div>
-    <div class="container-fluid">
+    <div class="container-fluid bg-light">
     <p class="text-center pt-5" style=" font-family: 'Montserrat', sans-serif;
                 font-size:32px;">INJUVENTUD</p>
                 <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
@@ -244,7 +243,7 @@
                         </div> -->
                     </div>
                     </a>
-                    <a href="oic">
+                    <a href="oic/">
                     <div class="card">
                     <img src="assets/brand/img/logo_oic.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
@@ -286,17 +285,23 @@
     <!-- Modal -->
     <div class="modal fade" id="modalRedes" tabindex="-1" aria-labelledby="modalRedesLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-            <div class="modal-content">
+            <div class="modal-content text-center">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Redes sociales</h5>
+                <h5 class="modal-title" id="exampleModalLabel"><i class="bi bi-phone-vibrate"></i> Redes sociales</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                ...
+                <!-- redes -->
+                <ul class="list-group list-group-flush">
+                    <a href="https://www.facebook.com/injuventud.zac" style="text-decoration:none;" target="_blank"><li class="list-group-item h5 text-primary"><i class="bi bi-facebook"></i> Facebook</li></a>
+                    <a href="https://twitter.com/INJUVENTUD_zac" style="text-decoration:none;" target="_blank"><li class="list-group-item h5 text-info"><i class="bi bi-twitter"></i> Twitter</li></a>
+                    <a href="https://www.instagram.com/injuventud.zac/" style="text-decoration:none;" target="_blank"><li class="list-group-item h5 text-danger"><i class="bi bi-instagram"></i> Instagram</li></a>
+                    <!-- <a href="https://www.facebook.com/injuventud.zac" style="text-decoration:none;" target="_blank"><li class="list-group-item h5 text-danger"><i class="bi bi-youtube"></i> Youtube</li></a> -->
+                </ul>
+                <!-- redes -->
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Cerrar</button>
             </div>
             </div>
         </div>
@@ -420,4 +425,4 @@ $("a[href^='#']").click(function(e) {
       }
       </style>
 
-https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-or-right-aligned-items
+<!-- https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-or-right-aligned-items -->
