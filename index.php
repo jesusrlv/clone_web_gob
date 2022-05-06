@@ -234,57 +234,68 @@
                 <!-- card group -->
                 <div class="card-group p-5" style="font-family: 'Montserrat', sans-serif;">
                 
-                <a href="comite_etica/">    
-                <div class="card">
+                    
+                    <div class="card">
+                    <a href="comite_etica/">
                     <img src="assets/brand/img/logo_etica.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
                         <h5 class="card-title">Realiza Gobierno de Zacatecas Encuentro con Instancias Municipales de la Juventud</h5>
                         <p class="card-text">Favorecen el trabajo coordinado entre el Injuventud y los ayuntamientos.</p>
                         <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
+                    </a>    
                     </div>
-                    </a>
-                    <a href="oic/">
+                    
+                    
                     <div class="card">
+                    <a href="oic/">    
                     <img src="assets/brand/img/logo_oic.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
                         <h5 class="card-title">Informan a estudiantes zacatecanos sobre pubertad y preadolescencia</h5>
                         <p class="card-text">El Instituto de la Juventud del Estado de Zacatecas (Injuventud) impartió la conferencia denominada “Pubertad y preadolescencia” para dar a conocer a estudiantes de sexto de primaria.</p>
                         <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
+                    </a>    
                     </div>
-                    </a>
-                    <a href="proveedores/">
+                    
+                    
                     <div class="card">
+                    <a href="proveedores/">    
                     <img src="assets/brand/img/logo_proveedores.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
                         <h5 class="card-title">Lleva Gobierno de Zacatecas Caravana de la Prevención a Cañitas de Felipe Pescador </h5>
                         <p class="card-text">A través del Instituto de la Juventud, se impulsan políticas públicas que fortalezcan el tejido social y el desarrollo integral de las y los jóvenes.</p>
                         <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
+                    </a>    
                     </div>
-                    </a>
-                    <a href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html">
+                    
+
+                    
                     <div class="card">
+                    <a href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html">    
                     <img src="assets/brand/img/logo_rendicion_cuentas.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <!-- <div class="card-body">
                         <h5 class="card-title">Lleva Gobierno de Zacatecas Caravana de la Prevención a Cañitas de Felipe Pescador </h5>
                         <p class="card-text">A través del Instituto de la Juventud, se impulsan políticas públicas que fortalezcan el tejido social y el desarrollo integral de las y los jóvenes.</p>
                         <p class="card-text"><small class="text-muted">Actualizado</small></p>
                         </div> -->
+                    </a>    
                     </div>
-                    </a>
-                    <a data-bs-toggle="modal" data-bs-target="#organigrama">
+                    
+                    
                     <div class="card">
+                    <a data-bs-toggle="modal" data-bs-target="#organigrama">    
                     <img src="assets/brand/img/organigrama_injuvemntud.jpg" class="card-img-top" style="width:100%; height:100%; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
                         <!-- <h5 class="card-title">Lleva Gobierno de Zacatecas Caravana de la Prevención a Cañitas de Felipe Pescador </h5>
                         <p class="card-text">A través del Instituto de la Juventud, se impulsan políticas públicas que fortalezcan el tejido social y el desarrollo integral de las y los jóvenes.</p>
                          <p class="card-text"><small class="text-muted">Actualizado</small></p>-->
-                         <button type="button" class="btn btn-primary btn-sm">Small button</button>
+                         <!-- <button type="button" class="btn btn-primary btn-sm">Small button</button> -->
                         </div>
+                    </a>  
                     </div>
-                    </a>                    
+                                      
 
                    <!-- Modal -->
                     <div class="modal fade" id="organigrama" tabindex="-1" aria-labelledby="organigrama" aria-hidden="true">
