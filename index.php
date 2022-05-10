@@ -165,12 +165,12 @@
                 <!-- card group -->
                 <div class="card-group p-5" style=" font-family: 'Montserrat', sans-serif;">
                     <div class="card">
-                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="images/delacalle_ala_cancha.jpeg" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
-                        <h5 class="card-title">Programa #1</h5>
-                        <p class="card-text">Programa del Instituto de la Juventud.</p>
+                        <h5 class="card-title">De la calle a la cancha</h5>
+                        <p class="card-text">Convocatoria ABIERTA.</p>
                         <p class="card-text"><small class="text-muted">Visitar</small></p>
-                        <p class="card-text"><small class="text-muted"><button type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill"></i></button></small></p>
+                        <p class="card-text"><small class="text-muted"><a href="pdfs/convocatoria_10052022.pdf" target="_blank" type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill"></i></a></small></p>
                         </div>
                     </div>
                     <div class="card">
