@@ -170,7 +170,7 @@
                         <h5 class="card-title">De la calle a la cancha</h5>
                         <p class="card-text">Convocatoria ABIERTA.</p>
                         <p class="card-text"><small class="text-muted">Visitar</small></p>
-                        <p class="card-text"><small class="text-muted"><a href="pdfs/convocatoria_10052022.pdf" target="_blank" type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill"></i></a></small></p>
+                        <p class="card-text"><small class="text-muted"><a href="pdfs/convocatoria_10052022.pdf" target="_blank" type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill text-light"></i></a></small></p>
                         </div>
                     </div>
                     <div class="card">
