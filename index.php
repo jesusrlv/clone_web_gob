@@ -481,7 +481,7 @@ $(function cargar() {
     <!-- Modal content-->
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title text-primary"><i class="bi bi-exclamation-triangle-fill"></i> Programa de la Semana del Estudiante 2022</h5>
+        <h5 class="modal-title text-primary">Programa de la Semana del Estudiante 2022</h5>
       </div>
       <div class="modal-body">
         <p><img src="images/programa.jpg" alt=""></p>
