@@ -470,4 +470,29 @@ $("a[href^='#']").click(function(e) {
       }
       </style>
 
+<script>
+$(function cargar() {
+    $('#myModal').modal('show');
+});
+    </script>
+
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-primary"><i class="bi bi-exclamation-triangle-fill"></i> Programa de la Semana del Estudiante 2022</h5>
+      </div>
+      <div class="modal-body">
+        <p><img src="images/programa.jpg" alt=""></p>
+        <!-- <p><iframe width="100%" height="500" src="https://www.youtube.com/embed/DLWWwP4UfDg?controls=0&rel=0&amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+      </div>
+      <div class="modal-footer">
+      <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
 <!-- https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-or-right-aligned-items -->
