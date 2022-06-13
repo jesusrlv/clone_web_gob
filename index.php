@@ -39,7 +39,7 @@
         <a class="nav-link" href="#two">Sala de prensa</a>
         <a class="nav-link" href="#three">Injuventud</a>
         <a class="nav-link" target="_blank" href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html">Rendición de cuentas</a>
-        <a class="nav-link" href="#two">Transparencia</a>
+        <a class="nav-link" href="#two" data-bs-toggle="modal" data-bs-target="#avisos">Transparencia</a>
         <a class="nav-link h5 text-primary" href="https://www.facebook.com/injuventud.zac"><i class="bi bi-facebook me-1"></i></a>
         <a class="nav-link h5 text-info" href="https://twitter.com/INJUVENTUD_zac"><i class="bi bi-twitter me-1"></i></a>
         <!-- <a class="nav-link" href="#"><i class="bi bi-youtube me-3"></i></a> -->
@@ -494,5 +494,33 @@ $(function cargar() {
 
   </div>
 </div>
+
+<!-- Modal avisos -->
+<div class="modal fade" id="avisos" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Avisos de privacidad</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+            <li><img src="avisos/accesos_a_la_informacion_derechos.jpg" alt="">Acceso a la información</li>
+            <li><img src="avisos/accesos_a_la_informacion.jpg" alt="">Acceso a la información</li>
+            <li><img src="avisos/asistencia_juvenil.jpg" alt="">Asistencia juvenil</li>
+            <li><img src="avisos/comunicacion_social.jpg" alt="">Comunicación social</li>
+            <li><img src="avisos/direccion_general.jpg" alt="">Dirección general</li>
+            <li><img src="avisos/recursos_financieros.jpg" alt="">Recursos financieros</li>
+            <li><img src="avisos/recursos_humanos.jpg" alt="">Recursos Humanos</li>
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <!-- https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-or-right-aligned-items -->
