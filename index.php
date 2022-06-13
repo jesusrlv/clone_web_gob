@@ -471,9 +471,9 @@ $("a[href^='#']").click(function(e) {
       </style>
 
 <script>
-$(function cargar() {
-    $('#myModal').modal('show');
-});
+// $(function cargar() {
+//     $('#myModal').modal('show');
+// });
     </script>
 
 <div id="myModal" class="modal fade" role="dialog">
