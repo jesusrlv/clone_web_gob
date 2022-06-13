@@ -505,18 +505,17 @@ $("a[href^='#']").click(function(e) {
       </div>
       <div class="modal-body">
         <ul>
-            <li><img src="avisos/accesos_a_la_informacion_derechos.jpg" alt="">Acceso a la información</li>
-            <li><img src="avisos/accesos_a_la_informacion.jpg" alt="">Acceso a la información</li>
-            <li><img src="avisos/asistencia_juvenil.jpg" alt="">Asistencia juvenil</li>
-            <li><img src="avisos/comunicacion_social.jpg" alt="">Comunicación social</li>
+            <li><a href="avisos/accesos_a_la_informacion_derechos.jpg">Acceso a la información</a></li>
+            <li><a href="avisos/accesos_a_la_informacion.jpg">Acceso a la información</a></li>
+            <li><a href="avisos/asistencia_juvenil.jpg">Asistencia juvenil</a></li>
+            <li><a href="avisos/comunicacion_social.jpg">Comunicación social</a></li>
             <li><img src="avisos/direccion_general.jpg" alt="">Dirección general</li>
-            <li><img src="avisos/recursos_financieros.jpg" alt="">Recursos financieros</li>
-            <li><img src="avisos/recursos_humanos.jpg" alt="">Recursos Humanos</li>
+            <li><a href="avisos/recursos_financieros.jpg">Recursos financieros</a></li>
+            <li><a href="avisos/recursos_humanos.jpg">Recursos Humanos</a></li>
         </ul>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
       </div>
     </div>
   </div>
