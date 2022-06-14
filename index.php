@@ -513,7 +513,7 @@ $("a[href^='#']").click(function(e) {
             <li><a href="images/avisos/recursos_financieros.jpg">Recursos financieros</a></li>
             <li><a href="images/avisos/recursos_humanos.jpg">Recursos Humanos</a></li>
             <li><a href="images/avisos/tics_aviso_privacidad.jpg">Tecnologías de la información</a></li>
-            <li><a href="images/avisos/recursos_humanos.jpg">Cámaras</a></li>
+            <li><a href="images/avisos/videocamaras.jpg">Cámaras</a></li>
         </ul>
       </div>
       <div class="modal-footer">
