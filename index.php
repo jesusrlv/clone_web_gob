@@ -38,12 +38,12 @@
         <a class="nav-link" href="#one">Programas</a>
         <a class="nav-link" href="#two">Sala de prensa</a>
         <a class="nav-link" href="#three">Injuventud</a>
-        <a class="nav-link" target="_blank" href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html">Rendición de cuentas</a>
+        <a class="nav-link" target="_blank" href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html" target="blank">Rendición de cuentas</a>
         <a class="nav-link" href="#two" data-bs-toggle="modal" data-bs-target="#avisos">Transparencia</a>
-        <a class="nav-link h5 text-primary" href="https://www.facebook.com/injuventud.zac"><i class="bi bi-facebook me-1"></i></a>
-        <a class="nav-link h5 text-info" href="https://twitter.com/INJUVENTUD_zac"><i class="bi bi-twitter me-1"></i></a>
+        <a class="nav-link h5 text-primary" href="https://www.facebook.com/injuventud.zac" target="blank"><i class="bi bi-facebook me-1"></i></a>
+        <a class="nav-link h5 text-info" href="https://twitter.com/INJUVENTUD_zac" target="blank"><i class="bi bi-twitter me-1"></i></a>
         <!-- <a class="nav-link" href="#"><i class="bi bi-youtube me-3"></i></a> -->
-        <a class="nav-link h5 text-danger" href="https://www.instagram.com/injuventud.zac/"><i class="bi bi-instagram me-3"></i></a>
+        <a class="nav-link h5 text-danger" href="https://www.instagram.com/injuventud.zac/" target="blank"><i class="bi bi-instagram me-3"></i></a>
         <a class="nav-link h5" href="#"><i class="bi bi-envelope me-1"></i></a>
         
       </div>
