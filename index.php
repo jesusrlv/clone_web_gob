@@ -505,7 +505,7 @@ $("a[href^='#']").click(function(e) {
       </div>
       <div class="modal-body">
         <ul>
-            <li><a href="images/avisos/avisos_integrales_injuventud.pdf" target="blank">Unidad de transparencia, Derechos ARCO</a></li>
+            <li><a href="images/avisos/avisos_integrales_injuventud.pdf" target="blank">AVISOS INTEGRALES</a></li>
             <hr>
             <li><a href="images/avisos/accesos_a_la_informacion_derechos.jpg" target="blank">Unidad de transparencia, Derechos ARCO</a></li>
             <li><a href="images/avisos/accesos_a_la_informacion.jpg" target="blank">Unidad de transparencia, Acceso a la información</a></li>
