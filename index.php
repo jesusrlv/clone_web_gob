@@ -505,15 +505,17 @@ $("a[href^='#']").click(function(e) {
       </div>
       <div class="modal-body">
         <ul>
-            <li><a href="images/avisos/accesos_a_la_informacion_derechos.jpg">Unidad de transparencia, Derechos ARCO</a></li>
-            <li><a href="images/avisos/accesos_a_la_informacion.jpg">Unidad de transparencia, Acceso a la información</a></li>
-            <li><a href="images/avisos/asistencia_juvenil.jpg">Asistencia juvenil</a></li>
-            <li><a href="images/avisos/comunicacion_social.jpg">Comunicación social</a></li>
-            <li><a href="images/avisos/direccion_general.jpg">Dirección general</a></li>
-            <li><a href="images/avisos/recursos_financieros.jpg">Recursos financieros</a></li>
-            <li><a href="images/avisos/recursos_humanos.jpg">Recursos Humanos</a></li>
-            <li><a href="images/avisos/tics_aviso_privacidad.jpg">Tecnologías de la información</a></li>
-            <li><a href="images/avisos/videocamaras.jpg">Cámaras</a></li>
+            <li><a href="images/avisos/avisos_integrales_injuventud.pdf" target="blank">Unidad de transparencia, Derechos ARCO</a></li>
+            <hr>
+            <li><a href="images/avisos/accesos_a_la_informacion_derechos.jpg" target="blank">Unidad de transparencia, Derechos ARCO</a></li>
+            <li><a href="images/avisos/accesos_a_la_informacion.jpg" target="blank">Unidad de transparencia, Acceso a la información</a></li>
+            <li><a href="images/avisos/asistencia_juvenil.jpg" target="blank">Asistencia juvenil</a></li>
+            <li><a href="images/avisos/comunicacion_social.jpg" target="blank">Comunicación social</a></li>
+            <li><a href="images/avisos/direccion_general.jpg" target="blank">Dirección general</a></li>
+            <li><a href="images/avisos/recursos_financieros.jpg" target="blank">Recursos financieros</a></li>
+            <li><a href="images/avisos/recursos_humanos.jpg" target="blank">Recursos Humanos</a></li>
+            <li><a href="images/avisos/tics_aviso_privacidad.jpg" target="blank">Tecnologías de la información</a></li>
+            <li><a href="images/avisos/videocamaras.jpg" target="blank">Cámaras</a></li>
         </ul>
       </div>
       <div class="modal-footer">
