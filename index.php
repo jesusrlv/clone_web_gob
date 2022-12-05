@@ -34,18 +34,18 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav mx-auto">
-        <a class="nav-link active" aria-current="page" href="#">Inicio</a>
-        <a class="nav-link" href="#one">Programas</a>
-        <a class="nav-link" href="#two">Sala de prensa</a>
-        <a class="nav-link" href="#three">Injuventud</a>
-        <a class="nav-link" target="_blank" href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html" target="blank">Rendición de cuentas</a>
-        <a class="nav-link" href="#two" data-bs-toggle="modal" data-bs-target="#avisos">Transparencia</a>
+        <a class="nav-link active" aria-current="page" href="#"><small>Inicio</small></a>
+        <a class="nav-link" href="#one"><small>Programas</small></a>
+        <a class="nav-link" href="#two"><small>Sala de prensa</small></a>
+        <a class="nav-link" href="#three"><small>Injuventud</small></a>
+        <a class="nav-link" target="_blank" href="https://juventud.zacatecas.gob.mx/rendicion_cuentas/rendicion_cuentas_css.html" target="blank"><small>Rendición de cuentas</small></a>
+        <a class="nav-link" href="#two" data-bs-toggle="modal" data-bs-target="#avisos"><small>Transparencia</small></a>
+        <a class="nav-link" href="#two" data-bs-toggle="modal" data-bs-target="#austeridad"><small>Austeridad</small></a>
         <a class="nav-link h5 text-primary" href="https://www.facebook.com/injuventud.zac" target="blank"><i class="bi bi-facebook me-1"></i></a>
         <a class="nav-link h5 text-info" href="https://twitter.com/INJUVENTUD_zac" target="blank"><i class="bi bi-twitter me-1"></i></a>
         <!-- <a class="nav-link" href="#"><i class="bi bi-youtube me-3"></i></a> -->
         <a class="nav-link h5 text-danger" href="https://www.instagram.com/injuventud.zac/" target="blank"><i class="bi bi-instagram me-3"></i></a>
         <a class="nav-link h5" href="#"><i class="bi bi-envelope me-1"></i></a>
-        
       </div>
     </div>
   </div>
@@ -174,12 +174,12 @@
                         </div>
                     </div>
                     <div class="card">
-                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="https://juventud.zacatecas.gob.mx/premioestataljuventud/4x/logo_edo_zac.png" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
-                        <h5 class="card-title">Programa #2</h5>
-                        <p class="card-text">Programa del Instituto de la Juventud.</p>
+                        <h5 class="card-title">Premio estatal de la juventud 2022</h5>
+                        <p class="card-text">Participa en la convocatoria.</p>
                         <p class="card-text"><small class="text-muted">Visitar</small></p>
-                        <p class="card-text"><small class="text-muted"><button type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill"></i></button></small></p>
+                        <p class="card-text"><small class="text-muted"><a href="premioestataljuventud" target="_blank" type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill text-light"></i></a></small></p>
                         </div>
                     </div>
                     <div class="card">
@@ -517,6 +517,32 @@ $("a[href^='#']").click(function(e) {
             <li><a href="images/avisos/tics_aviso_privacidad.jpg" target="blank">Tecnologías de la información</a></li>
             <li><a href="images/avisos/videocamaras.jpg" target="blank">Cámaras</a></li>
         </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal austeridad -->
+<div class="modal fade" id="austeridad" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Informe de austeridad</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ol>
+            <li><a href="images/avisos/accesos_a_la_informacion_derechos.jpg" target="blank">Clasificación Económica</a></li>
+            <li><a href="images/avisos/accesos_a_la_informacion.jpg" target="blank">Informe de Austeridad</a></li>
+            <li><a href="images/avisos/asistencia_juvenil.jpg" target="blank">Concepto de Gasto</a></li>
+            <li><a href="images/avisos/comunicacion_social.jpg" target="blank">Estructura Organizacional</a></li>
+            <li><a href="images/avisos/direccion_general.jpg" target="blank">Tabulador Salarial</a></li>
+            <li><a href="images/avisos/recursos_financieros.jpg" target="blank">Contrataciones</a></li>
+            <li><a href="images/avisos/recursos_humanos.jpg" target="blank">Comisiones y viáticos</a></li>
+            <li><a href="images/avisos/tics_aviso_privacidad.jpg" target="blank">Resumen de Medidas de Austeridad</a></li>
+        </ol>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
