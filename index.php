@@ -534,14 +534,14 @@ $("a[href^='#']").click(function(e) {
       </div>
       <div class="modal-body">
         <ol>
-            <li><a href="images/avisos/accesos_a_la_informacion_derechos.jpg" target="blank">Clasificación Económica</a></li>
-            <li><a href="images/avisos/accesos_a_la_informacion.jpg" target="blank">Informe de Austeridad</a></li>
-            <li><a href="images/avisos/asistencia_juvenil.jpg" target="blank">Concepto de Gasto</a></li>
-            <li><a href="images/avisos/comunicacion_social.jpg" target="blank">Estructura Organizacional</a></li>
-            <li><a href="images/avisos/direccion_general.jpg" target="blank">Tabulador Salarial</a></li>
-            <li><a href="images/avisos/recursos_financieros.jpg" target="blank">Contrataciones</a></li>
-            <li><a href="images/avisos/recursos_humanos.jpg" target="blank">Comisiones y viáticos</a></li>
-            <li><a href="images/avisos/tics_aviso_privacidad.jpg" target="blank">Resumen de Medidas de Austeridad</a></li>
+            <li><a href="#" onclick="alerta()">Clasificación Económica</a></li>
+            <li><a href="#" onclick="alerta()">Informe de Austeridad</a></li>
+            <li><a href="#" onclick="alerta()">Concepto de Gasto</a></li>
+            <li><a href="#" onclick="alerta()">Estructura Organizacional</a></li>
+            <li><a href="#" onclick="alerta()">Tabulador Salarial</a></li>
+            <li><a href="#" onclick="alerta()">Contrataciones</a></li>
+            <li><a href="#" onclick="alerta()">Comisiones y viáticos</a></li>
+            <li><a href="#" onclick="alerta()">Resumen de Medidas de Austeridad</a></li>
         </ol>
       </div>
       <div class="modal-footer">
@@ -551,5 +551,8 @@ $("a[href^='#']").click(function(e) {
   </div>
 </div>
 
-
-<!-- https://stackoverflow.com/questions/19733447/bootstrap-navbar-with-left-center-or-right-aligned-items -->
+<script>
+    function alerta(){
+        alert ("En construcción");
+    }
+</script>
