@@ -507,6 +507,8 @@ $("a[href^='#']").click(function(e) {
         <ul>
             <li><a href="images/avisos/avisos_integrales_injuventud.pdf" target="blank">AVISOS INTEGRALES</a></li>
             <hr>
+            <li><a href="docs/PADA.docx" target="blank">PADA</a></li>
+            <hr>
             <li><a href="images/avisos/accesos_a_la_informacion_derechos.jpg" target="blank">Unidad de transparencia, Derechos ARCO</a></li>
             <li><a href="images/avisos/accesos_a_la_informacion.jpg" target="blank">Unidad de transparencia, Acceso a la información</a></li>
             <li><a href="images/avisos/asistencia_juvenil.jpg" target="blank">Asistencia juvenil y Desarrollo juvenil</a></li>
