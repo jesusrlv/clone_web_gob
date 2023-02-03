@@ -168,27 +168,27 @@
                     <img src="images/delacalle_ala_cancha.jpeg" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
                         <h5 class="card-title">De la calle a la cancha</h5>
-                        <p class="card-text">Convocatoria ABIERTA.</p>
+                        <p class="card-text">Convocatoria CERRADA.</p>
                         <p class="card-text"><small class="text-muted">Visitar</small></p>
-                        <p class="card-text"><small class="text-muted"><a href="pdfs/convocatoria_10052022.pdf" target="_blank" type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill text-light"></i></a></small></p>
+                        <p class="card-text"><small class="text-muted"><a href="#" target="_blank" type="button" class="btn btn-primary btn-sm text-light">Revisar convocatoria <i class="bi bi-arrow-right-square-fill text-light"></i></a></small></p>
                         </div>
                     </div>
                     <div class="card">
                     <img src="https://juventud.zacatecas.gob.mx/premioestataljuventud/4x/logo_edo_zac.png" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
                         <h5 class="card-title">Premio estatal de la juventud 2022</h5>
-                        <p class="card-text">Participa en la convocatoria.</p>
+                        <p class="card-text">Convocatoria CERRADA.</p>
                         <p class="card-text"><small class="text-muted">Visitar</small></p>
-                        <p class="card-text"><small class="text-muted"><a href="premioestataljuventud" target="_blank" type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill text-light"></i></a></small></p>
+                        <p class="card-text"><small class="text-muted"><a href="premioestataljuventud" target="_blank" type="button" class="btn btn-primary btn-sm text-light">Revisar convocatoria <i class="bi bi-arrow-right-square-fill text-light"></i></a></small></p>
                         </div>
                     </div>
                     <div class="card">
-                    <img src="assets/brand/img/logo_injuventud_02.png" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
+                    <img src="images/img01.png" class="card-img-top p-3" style="width:100%; max-height:250px; object-fit: cover; object-position:center; background-repeat: no-repeat;" alt="...">
                         <div class="card-body">
-                        <h5 class="card-title">Programa #3</h5>
-                        <p class="card-text">Programa del Instituto de la Juventud.</p>
+                        <h5 class="card-title">Consejo Juvenil</h5>
+                        <p class="card-text">Convocatoria <strong>ABIERTA</strong>.</p>
                         <p class="card-text"><small class="text-muted">Visitar</small></p>
-                        <p class="card-text"><small class="text-muted"><button type="button" class="btn btn-primary btn-sm"><i class="bi bi-arrow-right-square-fill"></i></button></small></p>
+                        <p class="card-text"><small class="text-muted"><a href="consejo_juv/" type="button" class="btn btn-primary btn-sm text-light">Revisar convocatoria <i class="bi bi-arrow-right-square-fill text-light"></i></a></small></p>
                         </div>
                     </div>
                 </div>
