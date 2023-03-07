@@ -518,6 +518,8 @@ $("a[href^='#']").click(function(e) {
             <li><a href="images/avisos/recursos_humanos.jpg" target="blank">Recursos Humanos</a></li>
             <li><a href="images/avisos/tics_aviso_privacidad.jpg" target="blank">Tecnologías de la información</a></li>
             <li><a href="images/avisos/videocamaras.jpg" target="blank">Cámaras</a></li>
+            <hr>
+            <li><a href="docs/costos_impresion.pdf" target="blank">Costos de impresión</a></li>
         </ul>
       </div>
       <div class="modal-footer">
